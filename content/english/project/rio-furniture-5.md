@@ -5,6 +5,8 @@ image: images/portfolio/work5.jpg
 bg_image: images/featue-bg.jpg
 category: Illustration
 information:
+- label: TestLabel
+  info: Test information regarding this project
 - label: Client
   info: Jannie Kelonsky
 - label: What We Did
