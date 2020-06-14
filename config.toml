@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://happy-goldwasser-313d37.netlify.app"
+baseURL = "https://amazing-borg-f8e9d0.netlify.app"
 title = "ALEX ROJO | My FIRST HUGO SITE"
 theme = "airspace-hugo"
 # post pagination
