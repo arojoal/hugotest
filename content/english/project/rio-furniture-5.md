@@ -5,8 +5,6 @@ image: images/portfolio/work5.jpg
 bg_image: images/featue-bg.jpg
 category: Illustration
 information:
-- label: TestLabel
-  info: Test information regarding this project
 - label: Client
   info: Jannie Kelonsky
 - label: What We Did
@@ -19,7 +17,8 @@ information:
   info: HTML5 / PHP / CSS3
 - label: Client
   info: Jannie Kelonsky
-draft: true
+- label: TestLabel
+  info: Test information regarding this project
 
 ---
 ## Behance Website Redesign
